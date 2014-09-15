@@ -1,0 +1,6 @@
+((("c-mode" .
+   [1 0 0 0 0 0])
+  ("semantic-lex-c-preprocessor-symbol-file" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("cogl-base-dir" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0])))
